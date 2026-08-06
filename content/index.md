@@ -2,4 +2,6 @@
 title: Basesheet
 ---
 
-## [View the Basesheet production board →](/basesheet.base)
+<meta http-equiv="refresh" content="0; url=/basesheet.base" />
+
+Redirecting to the [Basesheet production board →](/basesheet.base)
