@@ -12,7 +12,7 @@ views:
     sort:
       - property: wordcount
         direction: ASC
-  - type: list
+  - type: board
     name: Sort by Title
     order:
       - file.name
