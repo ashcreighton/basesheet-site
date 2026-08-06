@@ -273,7 +273,9 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source: github:quartz-community/bases-page
+  - source:
+      repo: https://github.com/quartz-community/bases-page.git
+      subdir: "."
     enabled: true
     options:
       defaultViewType: table
