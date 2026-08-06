@@ -360,8 +360,7 @@ th.is-sorted-desc .bases-table-header-sort {
 
 .bases-board-column {
   min-width: min(250px, 80vw);
-  max-width: 420px;
-  flex: 1 1 auto;
+  flex-shrink: 0;
   border: 1px solid var(--lightgray);
   border-radius: 12px;
   background: var(--light);
